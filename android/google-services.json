@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413970286730",
+    "project_id": "pickmyplastic",
+    "storage_bucket": "pickmyplastic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413970286730:android:60e69930ae782e54f40573",
+        "android_client_info": {
+          "package_name": "com.example.pick_my_plastic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413970286730-1nlb163agrjq5dbv2giafs1e0fo6op04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqoD4MKRIq8kU7UR9J-puOdnwyPbxKZAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413970286730-1nlb163agrjq5dbv2giafs1e0fo6op04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
